@@ -1,4 +1,4 @@
-## Gravity Sim
+## Real-Time Gravity Simulation in Java
 
 
 Please run Main.java to run simulation.
